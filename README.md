@@ -66,7 +66,7 @@ The project includes:
 - Bar graphs for metric comparisons
 - Feature importance plots (where applicable)
 
-> 📂 All graphs are included in the `screenshots/` folder (optional).
+> 📂 All graphs are included in the `screenshots/` folder.
 
 ---
 
