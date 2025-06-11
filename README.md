@@ -2,6 +2,9 @@
 
 This project focuses on predicting heart disease using machine learning by comparing five classification models. The goal is to determine which model performs best using various evaluation metrics such as accuracy, precision, recall, F1-score, ROC AUC, and inference time.
 
+## 🖥️ Dashboard Link
+https://fuzail6thsem.netlify.app/
+
 ---
 
 ## 📚 Project Overview
